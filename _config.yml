@@ -2,8 +2,8 @@ title: Blog Education
 description: A bold typographic theme inspired by Swiss design.
 social_link: twitter
 social_username: broccolini
-github_repo: athena
-github_username: broccolini
+github_repo: edu
+github_username: fatchurrozaq
 theme_color: black
 remote_theme: internet-de-france/swiss
 baseurl: /edu
