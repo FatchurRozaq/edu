@@ -13,7 +13,15 @@ theme_color: black
 # Theme
 remote_theme: 'internet-de-france/swiss'
 baseurl: '/edu'
-
+# Plugins
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
 # Defaults
 
 defaults:
